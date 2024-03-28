@@ -1,4 +1,4 @@
-var friends = ["Rizwan", "Imran", "Abid"];
-console.log(friends[0]);
-console.log(friends[1]);
-console.log(friends[2]);
+var names = ["Rizwan", "Imran", "Abid"];
+console.log(names[0]);
+console.log(names[1]);
+console.log(names[2]);
